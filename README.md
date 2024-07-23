@@ -21,7 +21,7 @@ I'm a passionate web developer specializing in creating responsive, user-friendl
 
 ## 📫 How to Reach Me
 
-- [Portfolio](https://soueg/github.com)
+- [Portfolio](https://github-readme-stats.vercel.app/api?username=Soueg&show_icons=true&theme=radical)
 - [LinkedIn](https://www.linkedin.com/in/emanuel-charles-369350254
 )
 -  [Twitter](https://twitter.com/soyega13054?s=21)
