@@ -16,13 +16,12 @@ I'm a passionate web developer specializing in creating responsive, user-friendl
 
 ## 🌱 Currently Learning
 
-- TypeScript
-- Next.js
-- GraphQL
+- React
+  
 
 ## 📫 How to Reach Me
 
-- [Portfolio](https://yourportfolio.com)
+- [Portfolio](https://soueg/github.com)
 - [LinkedIn](https://www.linkedin.com/in/emanuel-charles-369350254
 )
 -  [Twitter](https://twitter.com/soyega13054?s=21)
