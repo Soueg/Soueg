@@ -5,8 +5,8 @@ I'm a passionate web developer specializing in creating responsive, user-friendl
 ## 🔧 Technologies & Tools
 
 - HTML, CSS, JavaScript
-- React, Angular, Vue.js
-- Node.js, Express
+- React
+- Node.js
 - MongoDB, MySQL
 - Git, GitHub
 
