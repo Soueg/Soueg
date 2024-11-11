@@ -5,8 +5,9 @@ I'm a passionate web developer specializing in creating responsive, user-friendl
 ## 🔧 Technologies & Tools
 
 - HTML, CSS, JavaScript
-- React
+- React.js
 - Node.js
+- Express.js
 - MongoDB, MySQL
 - Git, GitHub
 
@@ -17,6 +18,8 @@ I'm a passionate web developer specializing in creating responsive, user-friendl
 ## 🌱 Currently Learning
 
 - React
+- Express.js
+- MongoDb
   
 
 ## 📫 How to Reach Me
