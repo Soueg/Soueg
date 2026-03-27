@@ -2,16 +2,20 @@
 
 Talk to me about nature, psychology and relevant.
 
+
 Technologies & Tools
 
 Front End Dev
 - Next js | Tailwind Css | Typescript | Flutter with Dart
 
+
 Backend Dev
 - Laravel | Express | Python(On learning curve) | Dart
 
+
 Devops 
 - On Learning curve
+
 
 
 Currently Learning
@@ -19,6 +23,7 @@ Currently Learning
 - Laravel
 - Python 
 - Devops (From scratch)
+
   
 
 How to Reach Me
