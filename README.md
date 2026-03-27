@@ -1,25 +1,24 @@
 # Hi there, I'm Emanuel soyega 
 
-I'm a passionate web developer specializing in creating responsive, user-friendly websites and applications. With a strong foundation in HTML, CSS, JavaScript, and modern frameworks, I am dedicated to crafting efficient, clean code and constantly expanding my knowledge of new technologies.
+Talk to me about nature, psychology and relevant.
 
 Technologies & Tools
 
-- HTML, CSS, JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB, MySQL
-- Git, GitHub
+Front End Dev
+- Next js | Tailwind Css | Typescript | Flutter with Dart
 
-Stats
+Backend Dev
+- Laravel | Express | Python(On learning curve) | Dart
 
-![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soueg&show_icons=true&theme=radical)
+Devops 
+- On Learning curve
+
 
 Currently Learning
 
-- React
-- Express.js
-- MongoDb
+- Laravel
+- Python 
+- Devops (From scratch)
   
 
 How to Reach Me
